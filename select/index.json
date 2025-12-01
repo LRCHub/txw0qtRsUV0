@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "誰かが",
+  "base_artist": "The Birthday",
+  "createdAt": "2025-12-01T22:59:07.193720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰かが",
+      "artist": "Puffy AmiYumi",
+      "has_synced": true,
+      "path": "select/01_誰かが_Puffy_AmiYumi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰かが",
+      "artist": "PUFFY",
+      "has_synced": true,
+      "path": "select/02_誰かが_PUFFY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰かが忘れているかもしれない僕らに大事な001のこと",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_誰かが忘れているかもしれない僕らに大事な001のこと_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "誰かが投げたボール",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_02_誰かが投げたボール_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "誰かが君を愛してる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_03_誰かが君を愛してる_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "誰かが忘れているかもしれない僕らに大事な001のこと(D.A mix)",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_04_誰かが忘れているかもしれない僕らに大事な001のこと(D.A_mix)_UNISON_SQUARE_GARDEN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "誰かが君を待っている",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_05_誰かが君を待っている_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
